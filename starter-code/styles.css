@@ -1,0 +1,95 @@
+.revera {
+  font-size: 36px;
+  font-weight: 800;
+  position: relative;
+  left: 15%;
+}
+
+.customClass {
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+}
+
+.carouselTitle {
+  position: absolute;
+  z-index: 21;
+  color: white;
+  text-align: center;
+}
+
+.widgetRow {
+  background: #ed564b;
+  border-top: 5px solid #f96b61;
+  border-bottom: 5px solid #f96b61;
+}
+
+.titleMain {
+  font-size: 24px;
+}
+
+.titleGray {
+  font-size: 16px;
+  color: var(--gray);
+}
+
+.bottomContainer {
+  background: #333;
+  border-top: 5px solid #f96b61;
+  padding-top: 40px;
+  padding-bottom: 40px;
+}
+
+.bottomContainer h4 {
+  font-size: 16px;
+  color: white;
+}
+
+.bottomContainer a,
+.bottomContainer p {
+  color: lightgray;
+}
+
+.widgetRow i {
+  font-size: 18px;
+  color: white;
+  border: 5px solid white;
+  padding: 20px;
+  border-radius: 50%;
+}
+
+.widgets {
+  text-align: center;
+}
+
+.carouselArrows {
+  background: #ed564b;
+  width: 40px;
+  height: 80px;
+  position: absolute;
+  top: 50%;
+}
+
+.mainContent a:hover {
+  text-decoration: none;
+}
+
+.articles a {
+  color: black;
+  font-weight: bold;
+}
+
+.dropDown {
+  position: absolute;
+  top: 50px;
+  left: 55%;
+}
+
+.mainContent span {
+  font-size: 12px;
+}
+
+.mainContent {
+  padding-top: 100px;
+  padding-bottom: 40px;
+}
